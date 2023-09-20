@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Burhan-sidiq
 - 👀 I’m interested in creating full stack web apps
-- 🌱 I’m currently learning react,node ja
+- 🌱 I’m currently learning react,node js
 
 - 📫 How to reach me
 - Gmail : Burhansidiq247@gmail.com
